@@ -9,6 +9,7 @@ The ubiquitous "Hello World" program of the microcontroller and SoC world is "bl
 Full set up instruction can be found [here](https://www.arduino.cc/en/Tutorial/Blink)
 * Plug in your Arduino or Arduino compatible microcontroller via USB
 * Open the Arduino IDE (download the [Arduino IDE](https://www.arduino.cc/en/main/software)), select: File > Examples > Basics > Blink
+    * The code is also available in [LED blink](led-blink)
 * Click the "Upload" button.
 
 ### Circuit
