@@ -1,8 +1,8 @@
-### Hellow World
+### Hello World
 
 The ubiquitous "Hello World" program of the microcontroller and SoC world is "blink an LED". The following code demonstrates how this is done using the Johnny-Five framework.
 
-[Hello World](hello-world)
+[LED blink](led-blink)
 
 ### Setup and Assemble Arduino
 
